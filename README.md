@@ -94,7 +94,7 @@ ou
 
 ---
 
-### 🖥 **Front-end**
+### 🖥 **Web**
 
 ```bash
   $ cd frontend
@@ -150,14 +150,14 @@ ou
   $ npm run start
 ```
 
-## **Desafios**
+## 🗒 **Desafios**
 
 ### **Happy 2.0 - Features**
 
 Desafios propostos pela propria Rocketseat para incrementar a aplicação e reforçar os estudos.
 
 - [ ] Layout da aplicação (🚧em construção...🚧)
-- [ ] Acesso restrito (🚧em construção...🚧)
+- [x] Acesso restrito (Concluído!✅)
 - [ ] Recuperação de senhas (🚧em construção...🚧)
 - [ ] Cadastro de orfanatos (🚧em construção...🚧)
 - [x] Splash Screen no React Native com Expo (Concluído!✅)
