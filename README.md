@@ -158,8 +158,8 @@ Desafios propostos pela propria Rocketseat para incrementar a aplicação e refo
 
 - [ ] Layout da aplicação (🚧em construção...🚧)
 - [x] Acesso restrito (Concluído!✅)
-- [ ] Recuperação de senhas (🚧em construção...🚧)
-- [ ] Cadastro de orfanatos (🚧em construção...🚧)
+- [x] Recuperação de senhas (Concluído!✅)
+- [x] Cadastro de orfanatos (Concluído!✅)
 - [x] Splash Screen no React Native com Expo (Concluído!✅)
 - [ ] Onboarding do usuário (🚧em construção...🚧)
 - [ ] Localização real do usuário (🚧em construção...🚧)
